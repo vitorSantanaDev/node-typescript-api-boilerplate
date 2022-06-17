@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Vitor Santana",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/vitorSantanaDev/node-typescript-api-boilerplate.git"
+  },
   "scripts": {
     "build": "tsc",
     "start": "yarn build && node dist/src/index.js",
